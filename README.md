@@ -1,8 +1,11 @@
-# Healthcare API
+<img width="1114" height="718" alt="Healthcare API" src="https://github.com/user-attachments/assets/05856b6e-aa11-40c2-87aa-e84dc92015f7" /># Healthcare API
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![Rust](https://img.shields.io/badge/Rust-1.70%2B-orange.svg)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+<img width="1114" height="718" alt="Healthcare API" src="https://github.com/user-attachments/assets/0a5ed52a-6bc0-4308-9f5d-4719fbf0ebdf" />
+
 
 A robust, production-ready REST API for healthcare management systems, implemented in both **Python (FastAPI)** and **Rust (Actix-web)**. This API provides comprehensive endpoints for managing patients, appointments, and prescriptions with full CRUD operations.
 
